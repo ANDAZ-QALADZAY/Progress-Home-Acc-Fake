@@ -7387,26 +7387,26 @@ message.member.voiceChannel
 
 //تۆكینه‌كان لێره‌ جا بنێ
 
-client.login("");
-client2.login("");
-client3.login("");
-client4.login("");
-client5.login("");
-client6.login("");
-client7.login("");
-client8.login("");
-client9.login("");
-client10.login("");
-client11.login("");
-client12.login("");
-client13.login("");
-client14.login("");
-client15.login("");
-client16.login("");
-client17.login("");
-client18.login("");
-client19.login("");
-client20.login("");
+client.login("NzQyMDkyNDQwMTMxMDc2MTQ2.YAUNPQ.KHHuYeSAnmQR5LKUm__RREwdPHI");
+client2.login("NzQyMDkzMjkyMTU3Nzk2Mzgy.YAUOIA.LpPdTz99wp2_vEtap4nRJuWWbSA");
+client3.login("NzQyMTA1NzkyNjAxMzkxMjM3.YAUOhg.FZMxJhLAWiJQ_LkZGPBPKjBDETY");
+client4.login("NzQyMTA2NDk3NzE4MTU3MzUz.YAUO2A.wUuO0ICOBvJY7l4dAnnjGOkw978");
+client5.login("NzQyMTQ1OTg1ODc0MTAwMjY0.YAUPKA.yHRauOgAFJeTviM1UeWME_tpfpE");
+client6.login("NzU4NjA0MDE2MTYxOTE0ODkw.YAUPeA.OsDgFc2RUS-dY6-Lq6U1DczdXa0");
+client7.login("NzQyMTQ2ODIzNDE4MDE5OTEw.YAUPvw.-pcfv0_vnw7SK0FpkHCpV8Zpm4Q");
+client8.login("NzQyMTQ5MTQ4NjYwNDY1NzYy.YAUQJg.uOVUcjtKwGg-IwepurOLtfxUOuk");
+client9.login("NzQyMTQ4MjQ1MDM5MzQ5ODQx.YAUQcg.BsLojOjGyO1009F23wtt83_bmGw");
+client10.login("NzU4NjAzMzcxMzQyMjAwODQy.YAUQ5g.eNJ1twa9Onk8szcGE5127nDuWQY");
+client11.login("NzQyMTQ5Nzg1MjIxNDY0MDg0.YAUXgA.gj2n4-BAYBFUs6o-1ovXwrIhRhA");
+client12.login("NzQyMTUwNDY4Mjg0NzExMDQy.YAUigA.bsIv9mRWCbduNdZtGnDSytPgtg4");
+client13.login("NzU4NzczMTgxMTUzNjczMjQ5.YAUi8Q.r1UivIwW4ruKTH_WTxGGvsFd-nA");
+client14.login("NzU4NzczNjkyMjI1ODE0NTU4.X9r9iw.17Z4c1sY3jHDRy9dgY2BXmQSEXg");
+client15.login("NzQ1MzgyMzI1MjIyODk5ODE0.YAUjUQ.AvbCwawaVCQdCy0AQtpxgzTRKnY");
+client16.login("NzU4Nzc1NzY1MzE0OTYxNTE4.X-e0lg.btqrZ5K8q7iqUiAdVMrfnucZV2o");
+client17.login("NzU4Nzc2NjUzNDA0NzAwNjgy.X-SyiA.t7qvR-_S6rqHnF20eYcUEYyKhd4");
+client18.login("NzU4Nzc5ODA2NjEwNjIwNDI5.X-Sy0g.hIe8vaR3LbxDHMh3EObTVCIV91s");
+client19.login("NzU4Nzk0MTg3MTc2MDE3OTgx.X-SzBw.WpyC12naiJAlSWWdv3Z8L74ien0");
+client20.login("NzU4NzgwODU4NzA1Mzc5MzY4.X-SzJw.NuyFEeXYnXrBxHM5ofXM667UT8g");
 client21.login("");
 client22.login("");
 client23.login("");
